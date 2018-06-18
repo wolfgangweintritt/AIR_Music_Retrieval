@@ -11,11 +11,12 @@ TODO
 ## Requirements:
 
 * Jupyter (preferrably by installing Anaconda)
-* Python 3
+* Python 2
 
 ## Usage:
 
-* Create a virtual environment
-* ```pip install -r requirements.txt```
-* ```jupyter notebook```
+* `python2 -m virtualenv`
+* `source bin/activate`
+* `python2 -m pip install -r requirements.txt`
+* `jupyter notebook`
 
