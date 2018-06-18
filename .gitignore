@@ -3,3 +3,11 @@ py_36_env/
 py_27_env/
 __pycache__/
 .ipynb_checkpoints/
+
+# virtualenv stuff
+bin/
+etc/
+include/
+lib/
+pip-selfcheck.json
+share/
