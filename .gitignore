@@ -3,6 +3,7 @@ py_36_env/
 py_27_env/
 __pycache__/
 .ipynb_checkpoints/
+**.pyc
 
 # virtualenv stuff
 bin/
@@ -11,3 +12,10 @@ include/
 lib/
 pip-selfcheck.json
 share/
+
+# GZTAN genre collection directory
+collection/**
+!collection/.gitkeep
+
+# directory for fun & profit
+ignore/**
