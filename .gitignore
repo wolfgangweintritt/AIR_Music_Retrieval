@@ -1,4 +1,5 @@
 .idea/
 py_36_env/
+py_27_env/
 __pycache__/
 .ipynb_checkpoints/
