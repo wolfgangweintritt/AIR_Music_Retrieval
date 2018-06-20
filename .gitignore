@@ -16,6 +16,7 @@ share/
 # GZTAN genre collection directory
 collection/**
 !collection/.gitkeep
+!collection/mp3s/create_mp3s.sh
 
 # directory for fun & profit
 ignore/**
